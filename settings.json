@@ -1,0 +1,19 @@
+{
+    "name": "Testing00",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "test0",
+        "/category/asset_value_tracking/core-token/symbol": "@T@",
+        "/category/asset_value_tracking/core-token/decimals": "15",
+        "/category/asset_value_tracking/core-token/supply": "100",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "multiple",
+        "/category/collection/core-entity": true
+    }
+}
